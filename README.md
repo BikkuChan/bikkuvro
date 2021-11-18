@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bikkuvro
+- 👋 Hi, I’m @bikku <\7
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on bots
