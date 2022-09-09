@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bikku <\7
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on bots
-- 📫 How to reach me wa.me/917777777777
+- 👋 Hi, I’m Grey Walker / Bikku
+- 👀 I’m interested in AI,PROGRAMING etc
+- 🌱 I’m currently cs student
+- 💞️ I’m looking to collaborate on Google
+- 📫 You can reach me in IG @bqz.n.grey
 
 <!---
 bikkuvro/bikkuvro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
